@@ -8,7 +8,7 @@ Other than being a technology buff, I am an avid fan of the NFL, NBA, and Formul
 
 ## My Journey to Computer Engineering
 
-It has been a Tumultuous path to where I am today, but I feel as though my pitfalls and challenges while learning and working with programming languages have made me a stronger problem solver and programmer.
+It has been a tumultuous path to where I am today, but I feel as though my pitfalls and challenges while learning and working with programming languages have made me a stronger problem solver and programmer.
 
 ### - [My First App](https://studio.code.org/projects/applab/BWWQ9QaVSB9v3jNDbD5Ey_12_1ACJ6dU_5tHsQvPjNs)
 
