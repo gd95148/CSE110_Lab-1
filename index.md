@@ -23,11 +23,11 @@ I went on to take classes in high school that taught me the basics of Objected-O
 
 ### - Computer Theory and University Projects
 
-[ecelogo](ecelogo.png)
+[ECE](ecelogo.png)
 
 The Computer Engineering program at UC San Diego has taught me a breadth of disciplines I never envision myself learning about as a technology enthusiast. Never had I imagined learning advanced physics along side other forms of complex math to become a programmer. Courses have taught me the basics and even advanced levels of Java, C++, C, ARM Assembly, AutoCAD, MATLAB, Docker, Javascript, and CSS among many others.
 
-[cselogo](cselogo.jpeg) 
+[CSE](cselogo.jpeg) 
 
 All have these technologies have applications much beyond my comprehension, but I will always remember the words of my first computer science professor:
 
